@@ -1,0 +1,13 @@
+# Compiled class files
+bin/
+*.class
+
+# Local database credentials
+db.properties
+**/db.properties
+
+# IDE specific files
+.settings/
+*.tmp
+*.log
+
